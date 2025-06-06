@@ -1,6 +1,6 @@
 #include <stdio.h> //Biblioteca padrão 
 int main(){
-printf("***DESAFIO SUPER TRUNFO ! Nivel Aventureiro*** \n");// mensagem de abertura
+printf("***DESAFIO SUPER TRUNFO ! *** \n");// mensagem de abertura
 
     // Declaração de variaveis CARTA 01 
 
